@@ -1,4 +1,4 @@
-# Git (GitHub/GitLab/BitBucket)
+# Git (GitHub/GitLab/BitBucket/...)
 
 
 * [Baruch Odem](https://github.com/baruchiro)
