@@ -5,3 +5,5 @@
 [דיסקורד](https://discord.gg/5aeUQJa7)
 
 [מטאפ](https://www.meetup.com/maakaf/)
+
+[YouTube](https://www.youtube.com/@maakaf-os)
